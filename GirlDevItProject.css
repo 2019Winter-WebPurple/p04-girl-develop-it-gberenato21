@@ -1,0 +1,32 @@
+/*
+* Grace Berenato
+* 1 May 2019
+* Girl Develop It Project
+*/
+
+
+body {
+  background-color: #ffcccc;
+}
+
+
+figure {float: right;}
+
+
+header {background-color: #ff6666;}
+
+
+h2 {font-family: cursive, sans-serif, monospace;}
+h3 {font-family: cursive, sans-serif, monospace;}
+p {font-family: sans-serif, monospace, serif;}
+li {font-family: sans-serif, monospace, serif;}
+footer {font-family: sans-serif, monospace, serif;}
+
+a:hover, a:focus {
+    background-color: #ffcccc;
+    color: fuchsia;
+    font-size: 150%;
+} 
+
+img #girls {width: 300px; height: 200px;}
+img #sticker {width: 300px; height: 200px;}
